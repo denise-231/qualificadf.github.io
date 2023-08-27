@@ -1,6 +1,6 @@
-layout: post
+layout: post<
 <b>title:desenvolvedor de android
-date: 2023-07-31 19:00:00 -0300
+date: 2023-08-27 19:00:00 -0300
 ---
 Olá, seja bem vindo!   
 
