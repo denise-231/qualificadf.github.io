@@ -1,4 +1,4 @@
-# QUALIFICADF Praxis
+# desenvolvedor android
 blog exemplo para os estudantes do curso desenvolvimento de aplicativos para Android 2023.
 
 Tarefa na sala:
